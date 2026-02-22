@@ -131,7 +131,7 @@ torch.load(rng_file, weights_only=False)
 
 ## References
 
-- Original MMCoT: https://github.com/lupantech/mm-cot
+- Original MMCoT: https://github.com/amazon-science/mm-cot
 - ScienceQA: https://github.com/lupantech/ScienceQA
 - Weights: https://huggingface.co/YC111yc/C-MMCoT
 
